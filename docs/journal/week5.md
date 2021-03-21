@@ -44,8 +44,10 @@ Happening:
     1. Title: "Life after Bangkit: Voice from Best Graduates"
     1. Series: IWD (International Women's Day) at Bangkit 2021
     1. Platform: Youtube
+- Submit BFAA Submission #1 Application, got 5 Stars from Dicoding Reviewer.
   
-Detail: Clear as above.
+Detail: 
+![Dicoding Review](./../assets/19-03.png)
 
 20 March
 ---

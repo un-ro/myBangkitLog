@@ -10,6 +10,4 @@ Below is link to each journal:
 - [Week #4 | 8 ~ 13 March](/journal/week4.md)
 - [Week #5 | 15 ~ 20 March](/journal/week5.md)
 
-### Support or Contact
-
-No.
+> Coba Ganti

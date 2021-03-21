@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Unero's Bangkit 2021 Journal
 
-You can use the [editor on GitHub](https://github.com/un-ro/myBangkitLog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a repository, that I used to store my journal / daily reflection in week-based. I joined Bangkit 2021 program for this Semester (6th) of my study at Politeknik Negeri Malang. I pick Android Developer learning path.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/un-ro/myBangkitLog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Journal
+Below is link to each journal:
+- [Week #1 | 15 ~ 20 February](/journal/week1.md)
+- [Week #2 | 22 ~ 27 February](/journal/week2.md)
+- [Week #3 | 1 ~ 6 March](/journal/week3.md)
+- [Week #4 | 8 ~ 13 March](/journal/week4.md)
+- [Week #5 | 15 ~ 20 March](/journal/week5.md)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+No.

@@ -3,8 +3,6 @@ layout: default
 ---
 
 ## 15 ~ 20 February
-[🔙 Back](./)
-
 * * *
 
 15 February
@@ -55,3 +53,6 @@ Happening:
 Details:  
 - [Intro to Kotlin Certificate](https://www.dicoding.com/certificates/GRX5G4Q4VX0M)
 - [Resume](https://drive.google.com/file/d/1ei2Hwzvd2uv_WHp6pESWE4aNlNZwskRZ/view?usp=sharing)
+
+* * *
+[🔙 Back](./../)

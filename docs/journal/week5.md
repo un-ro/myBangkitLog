@@ -3,8 +3,6 @@ layout: default
 ---
 
 ## 15 ~ 20 March
-[🔙 Back](./)
-
 * * *
 
 15 March
@@ -60,4 +58,4 @@ Happening:
 Detail: Clear as above.
 
 * * *
-[🔙 Back](./)
+[🔙 Back](./../)

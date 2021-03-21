@@ -3,8 +3,6 @@ layout: default
 ---
 
 ## 8 ~ 13 March
-[🔙 Back](./)
-
 * * *
 
 8 March
@@ -37,3 +35,6 @@ Happening:
     1. Topic: "Professional Communication"
   
 Detail: Clear as above.
+
+* * *
+[🔙 Back](./../)

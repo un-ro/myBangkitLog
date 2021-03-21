@@ -3,8 +3,6 @@ layout: default
 ---
 
 ## 22 ~ 27 February
-[🔙 Back](./)
-
 * * *
 
 22 February
@@ -42,3 +40,6 @@ Happening:
     1. Topic: "OOP and Functonal Programming in Kotlin"
 
 Detail: Clear as above.
+
+* * *
+[🔙 Back](./../)

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 8 March
 ---
 Happening:

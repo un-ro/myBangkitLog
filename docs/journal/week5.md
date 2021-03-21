@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 15 March
 ---
 Happening:

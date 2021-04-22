@@ -33,10 +33,10 @@ Detail: Clear as above.
 ---
 Happening:
 
-- Attending #5 **Soft-Skill Class**
+- Attending #5 **Soft Skill Class**
     1. Instructor: Indra Fransiskus Alam
     1. Topic: "Adaptability"
-- Attending #5 **Tech Class**
+- Attending #5 **Tech Skill Class**
     1. Instructor: Franz Andel
     1. Topic: "Android Fundamental: List and Fragment"
 - Attending #4 **Guest Speaker Session**
@@ -53,7 +53,7 @@ Detail:
 ---
 Happening:
 
-- Attending #6 **Soft-Skill Class**
+- Attending #6 **Soft Skill Class**
     1. Instructor: Yuanita Intan Paramitasari
     1. Topic: "Giving & Receiving Feedback Class"
   

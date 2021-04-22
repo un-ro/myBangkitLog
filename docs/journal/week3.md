@@ -18,7 +18,7 @@ Detail:
 ---
 Happening:
 
-- Attending #3 **Tech Class**
+- Attending #3 **Tech Skill Class**
     1. Instructor: Andri Suranta Ginting
     1. Topic: "SOLID Principle"
   
@@ -28,7 +28,7 @@ Detail: Clear as above.
 ---
 Happening:
 
-- Attending #3 **Soft-Skill Class**
+- Attending #3 **Soft Skill Class**
     1. Instructor: Surya Sastra Sasmita
     1. Topic: "Time Management"
   

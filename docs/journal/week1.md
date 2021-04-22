@@ -42,10 +42,10 @@ Detail:
 Happening:
 
 - Finished **Self-Study** with title "Memulai Pemrograman Dengan Kotlin" from Dicoding
-- Attending #1 **Tech Class**
+- Attending #1 **Tech Skill Class**
     1. Instructor: Agung Cahyawan, Muh Isfhani Ghiath 
     1. Topic: "Welcoming, Intro to Kotlin Programming"
-- Attending #1 **Soft-Skill Class** 
+- Attending #1 **Soft Skill Class** 
     1. Instructor: William Florance 
     1. Topic: "Digital Branding"
 - Create Profesional Resume

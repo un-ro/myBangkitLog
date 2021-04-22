@@ -9,7 +9,7 @@ layout: default
 ---
 Happening:
 
-- Attending #2 **Soft-Skill Class**
+- Attending #2 **Soft Skill Class**
     1. Instructor: Victoria Anugrah Lestari
     1. Topic: "Life Path"
 - Starting **Self-Study** with title "Belajar Prinsip Pemrograman SOLID" from Dicoding
@@ -35,7 +35,7 @@ Happening:
     1. Speaker: Giovanni Sakti Nugraha
     1. Title: "Everyone will work remotely in time: So learn this superpower to make you thrive"
     1. Platform: Youtube
-- Attending #2 **Tech Class**
+- Attending #2 **Tech Skill Class**
     1. Instructor: Ahmad Kamil Almasyhur
     1. Topic: "OOP and Functonal Programming in Kotlin"
 

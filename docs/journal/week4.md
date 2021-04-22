@@ -20,7 +20,7 @@ Detail:
 ---
 Happening:
 
-- Attending #4 **Tech Class**
+- Attending #4 **Tech Skill Class**
     1. Instructor: Ivan Michael Siregar
     1. Topic: "Android Beginner: Activity and Intent"
   
@@ -30,7 +30,7 @@ Detail: Clear as above.
 ---
 Happening:
 
-- Attending #4 **Soft-Skill Class**
+- Attending #4 **Soft Skill Class**
     1. Instructor: Surya Sastra Sasmita
     1. Topic: "Professional Communication"
   

@@ -58,7 +58,7 @@ Happening:
 
 27 March
 ---
-- Attending #6 **Tech Class**
+- Attending #6 **Tech Class Class**
     1. Instructor: Sidiq Permana
     1. Topic: "Fundamental: UI UX"
 

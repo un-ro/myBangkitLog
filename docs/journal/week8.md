@@ -11,7 +11,7 @@ layout: default
 
 5 April
 ---
-- Attending #7 **Soft Skill Class**
+- Attending #7 part 1 **Soft Skill Class**
     1. Instructor: Theresia Veronika Rampisela
     1. Topic: "Persuasive Leader 1"
 - Attending **CAPSTONE** Project Briefing
@@ -36,7 +36,7 @@ Detail: Many Topics for **E-Government** shared by JSC (Jakarta Smart City), tha
 
 10 April
 ---
-- Attending #8 **Tech Skill**
+- Attending #8 **Tech Skill Class**
     1. Instructor: Ivan Michael Siregar, Eko Suhariyadi
     1. Topic: "Fundamental: Local Storage and Shared Preferences"
 

@@ -7,7 +7,7 @@ layout: default
 
 3 April
 ---
-- Attending #7 **Tech Class**
+- Attending #7 **Tech Class Class**
     1. Instructor: Divya Vikash
     1. Topic: "Fundamental: Background Process and Network"
 

@@ -19,6 +19,7 @@ Below is link to each journal:
 * [Week #7 (29 March ~ 3 April)](./journal/week7.md)
 * [Week #8 (5 ~ 10 April)](./journal/week8.md)
 * [Week #9 (12 ~ 17 April)](./journal/week9.md)
+* [Week #10 (19 ~ 25 April)](./journal/week10.md)
 * [Next Week]($Root?journal/week5.md)
 
 > ramadhanbhg@gmail.com

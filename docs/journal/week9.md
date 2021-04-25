@@ -42,7 +42,7 @@ Moment:
 ---
 - Attending #9 **Guest Speaker Session**
     1. Speakers: Rama Dhonanto
-    1. Title: "Knowing yourself"
+    1. Title: "Knowing yourself #1"
     1. Platform: Youtube
 
 * * *

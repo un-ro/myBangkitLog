@@ -47,7 +47,7 @@ Happening:
 - Submit BFAA Submission #1 Application, got 5 Stars from Dicoding Reviewer.
   
 Detail: 
-![Dicoding Review](./../assets/19-03.png)
+![Dicoding Review](./../assets/march/19-03.png)
 
 20 March
 ---
@@ -60,7 +60,7 @@ Happening:
 Detail: Clear as above.
 
 Moment:  
-![JamBoard Time!...](./../assets/20-03.png)
+![JamBoard Time!...](./../assets/march/20-03.png)
 
 * * *
 [🔙 Back](./../)

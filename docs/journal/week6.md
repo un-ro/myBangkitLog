@@ -27,7 +27,7 @@ Learn new things or reminded what I forgot to implement.
 
 Keep study!
 ```
-![Dicoding Review](./../assets/23-03.png)
+![Dicoding Review](./../assets/march/23-03.png)
 
 24 March
 ---
@@ -65,7 +65,7 @@ Happening:
 Detail: Get new Insight for UI UX mobile development from Android Expert itself.
 
 Moment:
-![Navigation really help...](./../assets/27-03.png)
+![Navigation really help...](./../assets/march/27-03.png)
 
 
 * * *

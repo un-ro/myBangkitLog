@@ -14,7 +14,7 @@ layout: default
 Detail: Learn bacgkround process (Executors, Kotlin Coroutines), and Networking request / process in application.
 
 Moment:
-![Mr Divya as Instructor](./../assets/03-04.png)
+![Mr Divya as Instructor](./../assets/april/03-04.png)
 
 
 * * *

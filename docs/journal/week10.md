@@ -31,7 +31,7 @@ Everyone busy with self study, CAPSTONE, private life. And this week we must com
     1. Platform: Youtube
 
 Moment: 
-![Mrs Cindy self-introduction...](./../assets/24-04.png)
+![Mrs Cindy self-introduction...](./../assets/april/24-04.png)
 
 25 April
 ---
@@ -40,7 +40,7 @@ Moment:
     1. Topic: "Android Architecture Component"
 
 Moment:
-![Mr Firman from Tokopedia and Malang too...](./../assets/25-04.png)
+![Mr Firman from Tokopedia and Malang too...](./../assets/april/25-04.png)
 
 * * *
 [🔙 Back](./../)

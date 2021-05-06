@@ -19,11 +19,11 @@ layout: default
 
 Moment: 
 - Soft Skill Class
-![Mrs Theresia presenting module...](./../assets/05-04-1.png)
+![Mrs Theresia presenting module...](./../assets/april/05-04-1.png)
 
 - CAPSTONE
-![CAPSTONE Time Line](./../assets/05-04.png)
-![CAPSTONE Objective](./../assets/05-04-2.png)
+![CAPSTONE Time Line](./../assets/april/05-04.png)
+![CAPSTONE Objective](./../assets/april/05-04-2.png)
 
 
 6 ~ 7 April
@@ -43,7 +43,7 @@ Detail: Many Topics for **E-Government** shared by JSC (Jakarta Smart City), tha
 Detail: Learn many things and implementation about shared pref and Local Storage SQLite.
 
 Moment: 
-![Love this instructors, they lecture with passion especially Mr Ivan...](./../assets/10-04.png)
+![Love this instructors, they lecture with passion especially Mr Ivan...](./../assets/april/10-04.png)
 
 
 * * *

@@ -27,7 +27,7 @@ Detail:
 - [BFAA Certificate](https://www.dicoding.com/certificates/1OP8DV71VPQK)
 
 Moment: 
-![Mr Ivan is the best lecturer in Bangkit...](./../assets/15-04.png)
+![Mr Ivan is the best lecturer in Bangkit...](./../assets/april/15-04.png)
 
 16 April
 ---
@@ -36,7 +36,7 @@ Moment:
     1. Topic: "Persuasive Leader 2"
 
 Moment: 
-![Mrs Chatrin presenting the material](./../assets/16-04.png)
+![Mrs Chatrin presenting the material](./../assets/april/16-04.png)
 
 17 April
 ---

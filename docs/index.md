@@ -29,5 +29,12 @@ Below is link to each journal:
 #### May
 * [Week #11 (26 ~ 2 May)](./journal/week11.md)
 * [Week #12 (3 ~ 9 May)](./journal/week12.md)
+* [Week #13 (10 ~ 16 May)](./journal/week13.md)
+* [Week #14 (17 ~ 23 May)](./journal/week14.md)
+* [Week #15 (24 ~ 30 May)](./journal/week15.md)
+
+#### June
+* [Week #16 (31 May ~ 6 June)](./journal/week16.md)
+* [Week #17 (7 June ~ 13 June)](./journal/week17.md)
 
 > ramadhanbhg@gmail.com

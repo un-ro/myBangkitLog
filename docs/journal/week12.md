@@ -19,7 +19,7 @@ Moment:
 ![Second time getting lectured by Mr Franz...](./../assets/may/03-05-2.png)
 
 
-7 May
+6 May
 ---
 - Attending #13 **Tech Skill Class**
     1. Instructor: Ivan Michael Siregar
@@ -27,6 +27,24 @@ Moment:
 
 Moment: 
 ![My fav lecture Mr Ivan...](./../assets/may/07-05.png)
+
+7 May
+---
+- Attending #12 **Soft Skill Class**
+    1. Instructor: Krisna Parahita
+    1. Topic: "Critical Thinking"
+
+8 May
+---
+- Attending #13 **Soft Skill Class**
+    1. Instructor: Zanuar
+    1. Topic: "Idea Generation and MVP Planning"
+
+9 May
+---
+- Attending #14 **Soft Skill Class**
+    1. Instructor: Adhi Duta Baskara
+    1. Topic: "Persuasive Leader 3"
 
 * * *
 [🔙 Back](./../)
